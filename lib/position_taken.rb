@@ -1,6 +1,6 @@
 # code your #position_taken? method here!
 
-def move(board, index, player)
+def position_taken? (board, index, player)
    board[index] = player
 end
 
