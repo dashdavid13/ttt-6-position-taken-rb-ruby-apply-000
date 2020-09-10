@@ -2,6 +2,8 @@
 
 def position_taken?(board,index) 
   board[index]
+   if board = " ".index
+     return flase 
   
 end 
     
